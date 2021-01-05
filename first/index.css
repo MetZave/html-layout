@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+#header {
+    height: 15vh;
+    width: 100vw;
+    background-color: #444;
+}
+#two {
+    display: inline-block;
+    margin-right: -4px;
+    background-color: #d8d8d8;
+    height: 85vh;
+    width: 10vw;
+}
+
+#three {
+    display: inline-block;
+    margin-right: -4px;
+    background-color: #222;
+    height: 10vh;
+    width: 79vw;
+}
+
+#four {
+    display: inline-block;
+    background-color: #d8d8d8;
+    background-position: right;
+    height: 85vh;
+    width: 10vw;
+}

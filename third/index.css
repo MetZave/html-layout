@@ -1,0 +1,53 @@
+body {
+    margin: 0;
+}
+
+#header {
+    height: 14vh;
+    width: 100%;
+    background-color: lightgray;
+    padding-top: 1%;
+}
+
+#box {
+    background-color: lightskyblue;
+    height: 90%;
+    width: 8%;
+    margin-left: 2%;
+    margin-bottom: 1%;
+}
+
+p {
+    text-align: left;
+    margin: 3%;
+    font-size: 200%;
+}
+
+#rect-one {
+    height: 28vh;
+    width: 100%;
+}
+
+#rect-two {
+    height: 14vh;
+    width: 100%; 
+    background-color: lightskyblue;
+}
+
+#rect-three {
+    height: 14vh;
+    width: 100%; 
+    background-color: lightseagreen; 
+}
+
+#rect-four {
+    height: 14vh;
+    width: 100%; 
+    background-color: yellowgreen;
+}
+
+#rect-five {
+    height: 14vh;
+    width: 100%; 
+    background-color: yellow;
+}
